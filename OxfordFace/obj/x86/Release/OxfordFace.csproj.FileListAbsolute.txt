@@ -1,0 +1,15 @@
+c:\users\josh\documents\visual studio 2013\Projects\OxfordFace\OxfordFace\bin\x86\Release\OxfordFace.exe.config
+c:\users\josh\documents\visual studio 2013\Projects\OxfordFace\OxfordFace\bin\x86\Release\OxfordFace.exe
+c:\users\josh\documents\visual studio 2013\Projects\OxfordFace\OxfordFace\bin\x86\Release\OxfordFace.pdb
+c:\users\josh\documents\visual studio 2013\Projects\OxfordFace\OxfordFace\bin\x86\Release\Microsoft.Kinect.Face.dll
+c:\users\josh\documents\visual studio 2013\Projects\OxfordFace\OxfordFace\bin\x86\Release\Microsoft.Kinect.Face.xml
+c:\users\josh\documents\visual studio 2013\Projects\OxfordFace\OxfordFace\obj\x86\Release\MainWindow.baml
+c:\users\josh\documents\visual studio 2013\Projects\OxfordFace\OxfordFace\obj\x86\Release\App.baml
+c:\users\josh\documents\visual studio 2013\Projects\OxfordFace\OxfordFace\obj\x86\Release\MainWindow.g.cs
+c:\users\josh\documents\visual studio 2013\Projects\OxfordFace\OxfordFace\obj\x86\Release\App.g.cs
+c:\users\josh\documents\visual studio 2013\Projects\OxfordFace\OxfordFace\obj\x86\Release\OxfordFace_MarkupCompile.cache
+c:\users\josh\documents\visual studio 2013\Projects\OxfordFace\OxfordFace\obj\x86\Release\OxfordFace.g.resources
+c:\users\josh\documents\visual studio 2013\Projects\OxfordFace\OxfordFace\obj\x86\Release\OxfordFace.Properties.Resources.resources
+c:\users\josh\documents\visual studio 2013\Projects\OxfordFace\OxfordFace\obj\x86\Release\OxfordFace.csproj.GenerateResource.Cache
+c:\users\josh\documents\visual studio 2013\Projects\OxfordFace\OxfordFace\obj\x86\Release\OxfordFace.exe
+c:\users\josh\documents\visual studio 2013\Projects\OxfordFace\OxfordFace\obj\x86\Release\OxfordFace.pdb
